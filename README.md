@@ -1,7 +1,7 @@
 # Scientific-analysis-and-presentation
 --------
 
-## 1차 숙제
+## 1차 숙제 description
 서울시 연평균 기온
 
 최고기온 최저기온
