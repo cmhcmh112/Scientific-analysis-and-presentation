@@ -23,6 +23,7 @@
     B -- No --> D[Not ok];
     C-->G[provisional proof]
     D-->A
+    G--H[law]
 ```
 ```python
   def f(x):
