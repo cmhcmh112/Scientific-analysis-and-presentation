@@ -21,9 +21,8 @@
     A[hypothesis]-->B{experiment};
     B -- yes --> C[ok];
     B -- No --> D[Not ok];
-    C-->G[provisional proof]
-    D-->A
-    G--H[law]
+    C-->G[provisional proof];
+    D-->A;
 ```
 ```python
   def f(x):
